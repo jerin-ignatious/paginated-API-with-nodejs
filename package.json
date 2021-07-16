@@ -1,0 +1,24 @@
+{
+  "name": "paginated-api-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerin-ignatious/paginated-API-with-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerin-ignatious/paginated-API-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/jerin-ignatious/paginated-API-with-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
